@@ -1,5 +1,5 @@
 import './App.css';
-import HelloWord from './components/HelloWorld';
+
 import SayMyName from './components/SayMyName';
 import Pessoa from './components/Pessoa';
 
@@ -14,7 +14,7 @@ function App() {
         nome="Thaís"
         idade="31"
         profissao="Programador"
-        foto="https://via.placeholder"
+        foto="https://picsum.photos/150"
       />
     </div>
   );
